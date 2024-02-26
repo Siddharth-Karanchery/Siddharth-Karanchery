@@ -3,8 +3,8 @@
 - 📫 How to reach me: +91 - 99161 - 16616, SIDDHARTHKARANCHERY . OFFICIAL@GMAIL . COM <br>
 - 😄 I’ve built a webapp to give insight on the CRS Draws (<https://siddharth-karanchery.github.io/ocanada>)
 - 😄 I’ve built a webapp to use Cue Cards to learn for the Indian Trademarks agents exams (<https://siddharth-karanchery.github.io/CueCards>)
-- 🔭 I’m currently working on Food Order Tracker web app
-- 🔭 I’m currently working on a web app to bring people closer to Christ <br>
+- 😄 I’ve built a webapp  to bring people closer to Christ(<https://closer2christ.vercel.app/>)
+- 🔭 I’m currently working on Food Order Tracker web app <br>
 
 - 🌱 I’m currently learning Node.js in order to become a full-stack developer.
 
