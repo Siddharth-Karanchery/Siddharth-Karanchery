@@ -1,4 +1,4 @@
-### Hi there 👋! I am Siddharth, a developer looking for the next puzzle to solve. So if you think I can help you on problem/challenge, please feel free to reach out to me.
+### Hi there 👋! I am Siddharth, a developer looking for the next puzzle to solve. So if you think I can help you with a problem/challenge, please feel free to reach out to me.
 
 - 📫 How to reach me: +91 - 99161 - 16616, SIDDHARTHKARANCHERY . OFFICIAL@GMAIL . COM <br>
 - 😄 I’ve built a webapp to give insight on the CRS Draws (<https://siddharth-karanchery.github.io/ocanada>)
