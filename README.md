@@ -12,5 +12,5 @@
     - Repo: <https://github.com/Siddharth-Karanchery/closer2christ>
 - 🔭 I’m currently working on Food Order Tracker web app <br>
 
-- 🌱 I’m in the process of learning Node.js(including MySql, Mongo, GraphQL and Deno) in order to become a full-stack developer.
+- 🌱 I’m in the process of learning Docker & Kubernetes.
 
